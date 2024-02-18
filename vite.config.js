@@ -7,7 +7,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        main: './src/index.js', // Specify the entry JavaScript file
+        main: './src/main.jsx', // Specify the entry JavaScript file
       },
     },
   },
