@@ -1,5 +1,5 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -12,7 +12,7 @@ export default defineConfig({
     },
         // Specify additional assets to be copied to the dist directory
         assetsDir: '.', // This will include all files in the root directory
-        index: './index.html',
+
   },
 });
 
