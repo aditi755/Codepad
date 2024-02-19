@@ -10,6 +10,9 @@ export default defineConfig({
         main: './src/main.jsx', // Specify the entry JavaScript file
       },
     },
+        // Specify additional assets to be copied to the dist directory
+        assetsDir: '.', // This will include all files in the root directory
+
   },
 });
 
