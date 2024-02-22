@@ -59,7 +59,7 @@ body {
 }
 
 /* to disable the extra codemirror div (codemirror classes)*/
-.react-codemirror2 .CodeMirror.cm-s-material.CodeMirror-wrap:first-child { 
+/* .react-codemirror2 .CodeMirror.cm-s-material.CodeMirror-wrap:first-child { 
   display: none;
-}   
+}     */
 
