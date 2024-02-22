@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "npm run generate-html && vite build",
-    "generate-html": "node scripts/generate-index.js",
+    "generate-html": "cp index.html dist/",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "copy-index": "cp index.html dist/",
     "preview": "vite preview",
