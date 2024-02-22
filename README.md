@@ -19,6 +19,6 @@ Welcome to Codepad, a versatile code editor that allows you to effortlessly writ
 ## Further Improvements 
 
 - **Enhanced Language Support:** Expand Codepad's capabilities by adding support for additional programming languages and frameworks, catering to a broader audience of developers.
-- **Custom Themes:** Allow users to personalize their coding experience by offering a selection of color themes, including a dark mode option for reduced eye strain during extended coding sessions.
+- **Custom Themes:** Allow users to personalize their coding experience by offering a selection of color themes, including a dark mode option for reduced eye strain during extended coding sessions
 - **Collaborative Editing:** Introduce collaborative editing features, enabling multiple users to work on the same codebase simultaneously, facilitating teamwork and productivity.
 - **Integration with External Libraries:** Incorporate libraries and APIs to extend Codepad's functionality, such as integrating with version control systems like Git or providing access to external code snippets and resources.
