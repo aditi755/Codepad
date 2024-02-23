@@ -1,7 +1,6 @@
 # Codepad 
 
-Welcome to Codepad, a versatile code editor that allows you to effortlessly write, preview, and save your HTML, CSS, and JavaScript code in real-time. Whether you're a beginner or an experienced developer, Codepad offers a seamless coding experience with its intuitive interface.
-
+Welcome to Codepad, a versatile code editor that allows you to effortlessly write, preview, and save your HTML, CSS, and JavaScript code in real-time. 
 ## Features
 
 - **Live Preview:** Witness your code come to life with real-time preview functionality, allowing you to visualize changes instantly as you type.
