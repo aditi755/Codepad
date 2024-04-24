@@ -1,6 +1,8 @@
 # Codepad 
 
 Welcome to Codepad, a versatile code editor that allows you to effortlessly write, preview, and save your HTML, CSS, and JavaScript code in real-time. 
+
+Here is the deployed project link: https://codepad-inky.vercel.app/
 ## Features
 
 - **Live Preview:** Witness your code come to life with real-time preview functionality, allowing you to visualize changes instantly as you type.
@@ -21,3 +23,5 @@ Welcome to Codepad, a versatile code editor that allows you to effortlessly writ
 - **Custom Themes:** Allow users to personalize their coding experience by offering a selection of color themes, including a dark mode option for reduced eye strain during extended coding sessions
 - **Collaborative Editing:** Introduce collaborative editing features, enabling multiple users to work on the same codebase simultaneously, facilitating teamwork and productivity.
 - **Integration with External Libraries:** Incorporate libraries and APIs to extend Codepad's functionality, such as integrating with version control systems like Git or providing access to external code snippets and resources.
+- 
+![Codepad](https://github.com/aditi755/Codepad/assets/107920147/2368d0a9-c6e2-4a4d-902e-c499e80583b6)
